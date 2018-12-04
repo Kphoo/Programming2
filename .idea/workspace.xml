@@ -1,152 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9467302e-0ac4-47f3-ad82-5019e1427eb3" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-console-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-datetime-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-debug-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l2-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-handle-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-heap-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-localization-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-memory-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-profile-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-string-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-synch-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-synch-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-timezone-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-util-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-conio-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-convert-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-environment-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-heap-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-locale-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-math-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-private-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-process-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-string-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-time-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-utility-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/concrt140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/msvcp140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/ucrtbase.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/vccorlib140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/vcomp140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/xlwings32-0.11.8.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/xlwings64-0.11.8.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Programming2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/Debugging.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/Number_Sequence_Generator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/electricitybillestimator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/electricitybillestimator2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/loop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/loops.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/menu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/sale_bonus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/shop_calculator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/shop_calculator1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical1/temperatures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/Exception1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/Exception2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/OUTPUT_FILE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/Stringformatting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/ascii_column.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/ascii_table.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/more_random.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/password.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/password_generator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/thingtodo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/thingtodo3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical2/word_gerator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/ascii_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/broken_score.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/gopher_population.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/print_letter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/temperatures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical3/valide_word_gen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/Quick_pick.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/degugger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/ex_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/ex_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/list_comprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/number_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/string.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/walkthrough.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pratical4/warm_up.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pratical5/color.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pratical5/do_scratch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pratical5/walkthrough.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6-script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6-script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" />
+    <list default="true" id="9467302e-0ac4-47f3-ad82-5019e1427eb3" name="Default Changelist" comment="programming">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pratical5/do_scratch.py" afterPath="$PROJECT_DIR$/pratical5/do_scratch.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -162,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Programming2$word_gerator.coverage" NAME="word_gerator Coverage Results" MODIFIED="1543296494707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pratical2" />
     <SUITE FILE_PATH="coverage/Programming2$Quick_pick.coverage" NAME="Quick_pick Coverage Results" MODIFIED="1543303327020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pratical4" />
     <SUITE FILE_PATH="coverage/Programming2$walkthrough.coverage" NAME="walkthrough Coverage Results" MODIFIED="1543298083826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pratical4" />
+    <SUITE FILE_PATH="coverage/Programming2$do_scratch.coverage" NAME="do_scratch Coverage Results" MODIFIED="1543906580053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical5" />
     <SUITE FILE_PATH="coverage/Programming2$warm_up.coverage" NAME="warm_up Coverage Results" MODIFIED="1543297327922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pratical4" />
     <SUITE FILE_PATH="coverage/Programming2$scratch_11.coverage" NAME="scratch_11 Coverage Results" MODIFIED="1542698006023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Programming2$ascii_column.coverage" NAME="ascii_column Coverage Results" MODIFIED="1542698807170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pratical2" />
@@ -205,8 +64,8 @@
       <file leaf-file-name="do_scratch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pratical5/do_scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -238,6 +97,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -391,25 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.color">
-    <configuration default="false" name="ex_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pratical4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pratical4/ex_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.do_scratch">
     <configuration default="false" name="ex_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -478,6 +324,24 @@
       <module name="Programming2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical5/color.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="do_scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical5/do_scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -685,19 +549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-      <item index="3" class="java.lang.String" itemvalue="Python.walkthrough" />
-      <item index="4" class="java.lang.String" itemvalue="Python.color" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.list_comprehension" />
+      <item index="2" class="java.lang.String" itemvalue="Python.walkthrough" />
+      <item index="3" class="java.lang.String" itemvalue="Python.color" />
+      <item index="4" class="java.lang.String" itemvalue="Python.do_scratch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.color" />
-        <item index="1" class="java.lang.String" itemvalue="Python.walkthrough" />
-        <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.do_scratch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.color" />
+        <item index="2" class="java.lang.String" itemvalue="Python.walkthrough" />
+        <item index="3" class="java.lang.String" itemvalue="Python.list_comprehension" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex_2" />
       </list>
     </recent_temporary>
   </component>
@@ -716,6 +580,14 @@
       <updated>1542694902782</updated>
       <workItem from="1543902032800" duration="942000" />
     </task>
+    <task id="LOCAL-00001" summary="programming">
+      <created>1543905168503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543905168503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -725,13 +597,13 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30648535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30648535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -764,6 +636,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1092,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pratical5/do_scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
